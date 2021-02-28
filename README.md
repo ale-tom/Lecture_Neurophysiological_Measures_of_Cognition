@@ -1,1 +1,1 @@
-https://ale-tom.github.io/practical_neurophysiology/Neurophysiology_tutorial.html
+https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Neurophysiology_tutorial.html
