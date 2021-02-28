@@ -19,7 +19,7 @@
 
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://github.com/ale-tom/practical_neurophysiology/blob/gh-pages/Neurophysiology_tutorial.html">
+    <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Neurophysiology_tutorial.html">
     
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>
