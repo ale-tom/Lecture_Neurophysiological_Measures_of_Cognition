@@ -11,7 +11,7 @@ Cognitive tasks and Reaction Times
 
 <img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>
 
-February 17 2021
+February 10 2021
 
 <img src="https://img.icons8.com/ios/250/000000/clock.png" align="left" width = "20"   class="logo"/>
 
