@@ -19,7 +19,15 @@
 
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Neurophysiology_tutorial.html">
+    <iframe class="testiframe" src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Neurophysiology_tutorial.html"
+    
+src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Part1_fMRI_slides.html"    
+
+src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Part2_Eye_Tracking_slides.html"      
+   
+src="https://github.com/ale-tom/Lecture_Neurophysiological_Measures_of_Cognition/blob/gh-pages/Part3_EEG_slides.html" 
+ 
+    >
     
       Fallback text here for unsupporting browsers, of which there are scant few.
     </iframe>

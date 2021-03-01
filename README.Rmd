@@ -1,0 +1,89 @@
+---
+title: "Cognitive tasks and Reaction Times"
+output: github_document
+---
+
+```{=html}
+<img src="https://github.com/ale-tom/Open_Science_Course-MPhil_BTN/blob/main/Pictures/logo_uni.jpg" align="right" width = "300"   class="logo"/>
+```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+```{r load_packages, message=FALSE,warning=FALSE,include=FALSE}
+   library(fontawesome)
+```
+
+## Part IB Education Tripos - Lent Term
+## Live session 
+
+------------------------------------------------------------------------
+
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/calendar.png" align="left" width = "20"   class="logo"/>
+```
+
+February 17 2021
+ 
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/clock.png" align="left" width = "20"   class="logo"/>
+```  
+
+  14:00 - 15:00
+ 
+```{=html}
+<img src="https://img.icons8.com/ios/250/000000/marker.png" align="left" width = "20"   class="logo"/>
+```
+
+  Zoom
+
+
+------------------------------------------------------------------------
+
+## Course description
+The course is an introduction to some of the main neurophysiological techniques  used by researchers studying cognitive development and learning to peek into the neural substrates of cogntion. Typical neurophysiological techniques inclue functional magnetic resonance (fMRI), eye-tracking, and electroencephalography (EEG). During this session, we will discuss the theory behind the techniques and key practical and methodological challenges.
+
+The lecture consists of three parts
+
+1. [fMRI](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part1_fMRI_slides.html)
+
+2. [Eye-tracking](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part2_Eye_Tracking_slides.html)
+
+3. [EEG](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part3_EEG_slides.html) 
+
+
+ 
+
+## Pre-work
+
+ 
+
+Recorded lecture available on Moodle
+ 
+
+## Reading list
+
+* Mareschal, D., Butterworth, B., & Tolmie, A. (Eds.). (2013). Educational neuroscience. John Wiley & Sons. Chapter 2 - Neuroimaging methods
+Read ebook online
+
+Further reading:
+
+* Karatekin, C. (2007). Eye- tracking studies of normative and atypical development. Developmental Review, 27, 283–348.
+
+* Johnson, M. H., Halit, H., Grice, S. J., & Karmiloff-Smith, A. (2002). Neuroimaging of typical and atypical development: A perspective from multiple levels of analysis. Development and Psychopathology, 14, 521–536.
+
+* Mayer, R. (2010). Unique contributions of eye-tracking research to the study of learning with graphics. Learning and Instruction, 20(2), 167–171.
+
+* Taylor, M. J., & Baldeweg, T. (2002). Application of EEG, ERP and intracranial recordings to the investigation of cognitive functions in children. Developmental Science, 5(3), 318-334.
+
+------------------------------------------------------------------------
+
+## Lecturer
+
+ 
+
+-   **Dr Alessandro Tomassini** - *MRC Cognition and Brain Sciences Unit* \|  `r fa("envelope", height = 12, fill = "steelblue")`  [alessandro.tomassini\@mrc-cbu.cam.ac.uk](mailto:alessandro.tomassini@mrc-cbu.cam.ac.uk)
+
+ 
+
+ 
