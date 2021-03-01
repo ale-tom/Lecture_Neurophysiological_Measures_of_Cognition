@@ -1,4 +1,4 @@
-Cognitive tasks and Reaction Times
+Neurophysiological measures of cognition
 ================
 
 <img src="https://github.com/ale-tom/Open_Science_Course-MPhil_BTN/blob/main/Pictures/logo_uni.jpg" align="right" width = "300"   class="logo"/>
@@ -25,12 +25,12 @@ Zoom
 
 ## Course description
 
-The course is an introduction to some of the main neurophysiological
-techniques used by researchers studying cognitive development and
-learning to peek into the neural substrates of cogntion. Typical
-neurophysiological techniques inclue functional magnetic resonance
-(fMRI), eye-tracking, and electroencephalography (EEG). During this
-session, we will discuss the theory behind the techniques and key
+The course is an introduction to some of the main non-invasive
+neurophysiological techniques used by researchers studying cognitive
+development and learning to peek into the neural substrates of cogntion.
+Typical neurophysiological techniques inclue functional magnetic
+resonance (fMRI), eye-tracking, and electroencephalography (EEG). During
+this session, we will discuss the theory behind the techniques and key
 practical and methodological challenges.
 
 The lecture consists of three parts
