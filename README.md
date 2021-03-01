@@ -33,13 +33,15 @@ resonance (fMRI), eye-tracking, and electroencephalography (EEG). During
 this session, we will discuss the theory behind the techniques and key
 practical and methodological challenges.
 
-The lecture consists of three parts
+The lecture consists of four parts
 
 1.  [fMRI](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part1_fMRI_slides.html)
 
 2.  [Eye-tracking](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part2_Eye_Tracking_slides.html)
 
 3.  [EEG](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part3_EEG_slides.html)
+
+4.  [Practical](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Neurophysiology_tutorial.html)
 
  
 

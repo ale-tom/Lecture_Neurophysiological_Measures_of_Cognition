@@ -43,7 +43,7 @@ February 10 2021
 ## Course description
 The course is an introduction to some of the main non-invasive neurophysiological techniques  used by researchers studying cognitive development and learning to peek into the neural substrates of cogntion. Typical neurophysiological techniques inclue functional magnetic resonance (fMRI), eye-tracking, and electroencephalography (EEG). During this session, we will discuss the theory behind the techniques and key practical and methodological challenges.
 
-The lecture consists of three parts
+The lecture consists of four parts
 
 1. [fMRI](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part1_fMRI_slides.html)
 
@@ -51,6 +51,7 @@ The lecture consists of three parts
 
 3. [EEG](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Part3_EEG_slides.html) 
 
+4. [Practical](https://ale-tom.github.io/Lecture_Neurophysiological_Measures_of_Cognition/Neurophysiology_tutorial.html)
 
  
 
